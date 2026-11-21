@@ -1,0 +1,15 @@
+# Python cache files (generated automatically, no need to track them)
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

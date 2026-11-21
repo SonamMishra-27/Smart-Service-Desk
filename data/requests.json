@@ -1,0 +1,23 @@
+[
+    {
+        "request_id": "SD001",
+        "employee_name": "Rahul Sharma",
+        "issue": "Laptop is not starting",
+        "priority": "HIGH",
+        "status": "RESOLVED"
+    },
+    {
+        "request_id": "SD002",
+        "employee_name": "Priya",
+        "issue": "Keyboard not working",
+        "priority": "LOW",
+        "status": "OPEN"
+    },
+    {
+        "request_id": "SD003",
+        "employee_name": "Amit",
+        "issue": "Printer not working",
+        "priority": "MEDIUM",
+        "status": "OPEN"
+    }
+]
